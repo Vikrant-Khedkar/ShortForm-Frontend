@@ -1,0 +1,23 @@
+.card{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(111, 255, 0);
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+}
+
+.videoplayer{
+    display: flex;
+}
+
+
+.title{
+    display: flex;
+    position: relative;
+    top: -30px;
+    right: 220px;
+}
